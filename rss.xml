@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Leila Yazbek]]></title>
         <description><![CDATA[Leila Yazbek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leila-yazbek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 04:37:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 04:38:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leila-yazbek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a63af3e-a3e1-4874-8ceb-338144e6217f.jpg">]]></description>
-            <link>undefined3509b0ed-f6ce-4469-91bc-ea2179d1122f/index.html</link>
+            <link>https://thegrid.ai/leila-yazbek/3509b0ed-f6ce-4469-91bc-ea2179d1122f/index.html</link>
             <guid isPermaLink="false">3509b0ed-f6ce-4469-91bc-ea2179d1122f</guid>
-            <pubDate>Fri, 15 Jan 2016 04:37:02 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 04:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

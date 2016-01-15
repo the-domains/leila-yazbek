@@ -1,0 +1,28 @@
+name: Leila Yazbek
+favicon: null
+layout_spectrum: 0.5949542957823724
+typography_spectrum: 0.583612869726494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3417724964674562
+  lightness: 0.2593696650583297
+  saturation: 0.5431416050996631
+  rhythmicContrast: 0.8073490944225341
+purpose: []
